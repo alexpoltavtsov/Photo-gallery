@@ -1,0 +1,15 @@
+
+
+h1{
+    font-size: 30px;
+    color: rgb(224, 48, 17);
+    margin: 20px 0;
+}
+
+.output{
+    color: red;
+}
+
+.city{
+    margin: 10px 0;
+}
